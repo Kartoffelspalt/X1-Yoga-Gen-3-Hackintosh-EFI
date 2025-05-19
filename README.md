@@ -1,2 +1,3 @@
 # X1-Yoga-Gen-3-Hackintosh-EFI
-A Hackintosh EFI for the Thinkpad X1 Yoga Gen 3. Support up to Ventura 13.7.6 (Tested it, worked). Will try Sequoia soon.
+### OpenCore EFI for Thinkpad X1 Yoga Gen 3. Made for Ventura 13.
+### Hibernation works. I dont know how, but it works.
