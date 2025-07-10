@@ -15,6 +15,3 @@ What's not working:
 -IPhone Sync
 -SleepState: 4 (After a long time when the LED on the back is blinking it goes off for some minutes and then It goes back on back to S1; will try to get it working)
 ## Open Issues in English only!
-
-## Sponsering
-### My BTC adress is linked in the sponsering section.
